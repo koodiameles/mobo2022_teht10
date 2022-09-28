@@ -59,7 +59,7 @@ export default function App() {
   return (
     <>
       <View style={styles.containerHeader}>
-        <Text style={styles.assignmentHeaderText}>TEHT 8 ETSI OSOITE</Text>
+        <Text style={styles.assignmentHeaderText}>TEHT 10 ETSI OSOITE JA OMA SIJAINTI</Text>
       </View>
 
       <View style={styles.container}>
